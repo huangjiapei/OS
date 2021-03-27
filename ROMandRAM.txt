@@ -1,0 +1,2 @@
+RAM:random access memory，随机存取存储器，掉电丢失数据，主要是用于存储用户数据
+ROM:read only memory，只读存储器，掉电不丢失，主要用于存储系统数据包括BIOS等
